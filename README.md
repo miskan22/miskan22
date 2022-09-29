@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Misun Kang.
 - 👀 I’m interested in finding new hobbies🤩.
 - 🌱 I’m currently studying IT at Wintec🏫.
-- 💞️ I’m looking to collaborate on IT industries or companies to work with🏢.
+- 💞️ I’m looking forward to collaborate on IT industries or companies to work with🏢.
 - 📫 How to find me.. on slack or discord❗
 
 <!---
