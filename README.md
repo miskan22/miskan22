@@ -2,6 +2,7 @@
 - 👀 I’m interested in finding new hobbies🤩.
 - 🌱 I’m currently studying Bachelor of IT at Wintec🏫.
 - 💞️ I’m looking forward to work in IT industries or companies🏢.
+- 😎 I would like to deep dive into IT environments👩‍💻.
 - 📫 How to find me.. on slack, discord or linkedin❗
 
 <!---
