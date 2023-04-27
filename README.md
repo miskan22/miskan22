@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Misun Kang🤗.
 - 👀 I’m interested in finding new hobbies🤩.
-- 💻 I'm passionate about learning new things such as coding, IT tools🖥️.
+- 💻 I'm passionate about learning new things such as programming languages, IT tools🖥️.
 - 🌱 I’m currently studying Bachelor of IT at Wintec🏫.
 - 💞️ I’m looking forward to work in IT industries or companies🏢.
 - 😎 I would like to deep dive into IT environments👩‍💻.
